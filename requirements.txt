@@ -1,0 +1,12 @@
+streamlit==0.63.0
+pandas==1.0.5
+numpy==1.18.5
+os
+joblib==0.16.0
+matplotlib==3.2.2
+pandas_profiling==2.9.0
+streamlit_pandas_profiling==2.9.0
+hashlib
+codecs
+sqlite3
+PIL==7.2.0
